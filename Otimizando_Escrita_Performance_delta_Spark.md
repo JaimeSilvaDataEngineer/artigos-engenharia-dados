@@ -101,3 +101,6 @@ Lute contra arquivos pequenos ajustando particionamento e aplicando compactaçõ
 Planeje particionamento e paralelismo para reduzir o custo de joins e operações de shuffle.
 
 Com essas práticas aplicadas de forma contínua, a diferença de performance é notável: menos tempo de processamento, custos menores e consultas mais ágeis para os consumidores de dados.
+
+Quer saber mais ?
+[Guia prático para construir um Data Lakehouse open source usando Minio , Delta Lake e Spark](https://www.amazon.com/pr%C3%A1tico-construir-Lakehouse-source-usando-ebook/dp/B0GRX8BKQH/ref=sr_1_26?crid=3V0XE6AIZZYR3&dib=eyJ2IjoiMSJ9.MWgKkOS3uo2YEo8HMKnV4t8TUoAZESgILJ1LO2C_cVsSeV6Ni0IFXNACRqqGcSsCW9ijEr299PbddhCn-_Wl0Nr6csn0UCa9muWeopGx5v5FlCMgzKCKXsIoIiXOHxoFaRZhut_kFwpH_JH4UD-O3RNkB-P5B9BAZoEJWO6VKUQ.76gT6Qxe02FJsrfsyjoTPVhftAtWjcrg_4juS7tWE4o&dib_tag=se&keywords=delta+lake&qid=1774951778&sprefix=delta+lake%2Caps%2C295&sr=8-26&xpid=C4kLGQp5lRdE6)
