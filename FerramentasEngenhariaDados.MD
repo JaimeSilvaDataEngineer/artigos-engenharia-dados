@@ -70,3 +70,7 @@ Este guia apresenta um comparativo rápido das principais ferramentas e serviço
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Infraestrutura como Código** | CloudFormation, CDK | Deployment Manager | ARM Templates / Bicep | 🟩 **Terraform**, Pulumi, Ansible | **Terraform** é padrão *multi-cloud*. |
 | **Contêiner / Orquestração** | ECS / EKS | GKE | AKS | 🟩 **Docker Compose**, Kubernetes (Kind / Minikube) | Permite simular *deploys* locais idênticos aos da nuvem. |
+
+Quer saber mais ?
+
+Guia prático para construir um Data Lakehouse open source usando Minio , Delta Lake e Spark
